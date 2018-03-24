@@ -80,6 +80,15 @@ twenty_dollars > Monei::Money.new(5, 'USD') # => true
 twwenty_dollars < fifty_eur # => true
 ```
 
+### Configuring precision
+
+`Monei` allows you to set the precision when converting amount to `BigDecimal`.
+
+```ruby
+Monei.precision = 16
+```
+
+
 
 ## Development
 
