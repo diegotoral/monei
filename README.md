@@ -1,5 +1,7 @@
 # Monei
 
+[![Build Status](https://travis-ci.org/diegotoral/monei.svg?branch=master)](https://travis-ci.org/diegotoral/monei)[![Maintainability](https://api.codeclimate.com/v1/badges/22ad1031457106ec88ca/maintainability)](https://codeclimate.com/github/diegotoral/monei/maintainability)
+
 `Monei` is a simple yet fun to play around Ruby gem for dealing with currencies and conversion rates at a high abstraction level. It's built on the concept of `Money` objects and convertion rates.
 
 ## Installation
